@@ -10,4 +10,4 @@ Feel free to check out my code and download the _Encrypto.exe_ file.
 - **Step 3:** Add your password details _(Usage, Password)_ you want to save in that file.
 - **Step 4:** Passwords are **safe!** :lock:
 
-![encrypto](https://drive.google.com/file/d/1zHwkDwF0X1oOMX3mHFJetzTJ3SI3bvce/view?usp=sharing)
+![encrypto](https://user-images.githubusercontent.com/86418773/158602522-2a6b548c-fcea-4319-a417-a50578b2fe72.png)
